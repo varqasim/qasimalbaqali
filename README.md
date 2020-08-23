@@ -1,4 +1,11 @@
-### Hi there 👋
+### Junior JavaScript Advocate. 👋
+Whenever someone speaks to me about anything that is related to software development, I start whispering "JavaScript" repeadetly.
+
+---
+
+📧 qasimalbaqali[at]gmail[dot]com
+
+🦜 @varqasim
 
 <!--
 **qasimalbaqali/qasimalbaqali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
